@@ -15,7 +15,7 @@ import { AppRoutingModule } from './app-routing/app-routing.module';
     BrowserModule,
     AppRoutingModule,
     AgmCoreModule.forRoot({
-      apiKey: 'AIzaSyBkW-bXqM76CnUgvYdQfZ7Kd6NotX82ut4'
+      apiKey: 'AIzaSyD0hs3efnZIHiDf00wzVlYEbZTZow5PHTc'
     })
   ],
   providers: [],
